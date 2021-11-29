@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @akashdeep3194
+- On a journey towards excellence in Software development
 - 👀 I’m interested in Python Programming, Django , REST APIS, Data Science and Machine Learning
 - 🌱 I’m currently learning Python Programming, Django, Django Rest Framework
 
